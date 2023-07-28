@@ -4,8 +4,6 @@
   
 - 🌱 I’m currently learning **Javascript libraries and frameworks like ReactJS**
 
-- 👀 I know a few things here and there and I am learing the rest as I go on
-
 - I'm looking to collaborate on projects with fellow developers and designers
 
 - 🤔 I'm looking for help with internships and entry-level opportunities
